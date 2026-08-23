@@ -34,8 +34,11 @@ The project focuses on end-to-end Data Analysis, Exploratory Data Analysis (EDA)
 │   ├── HypothesisTesting.ipynb        # Week 3 Statistical Testing Notebook
 │   ├── HypothesisTesting.py           # Python script for hypothesis testing
 │   └── Week_3_Titanic_Hypothesis_Testing_Report.docx
-├── WEEK 4/                             # Future tasks / reports
-└── WEEK 5/                             # Future tasks / reports
+├── WEEK 4/
+|   ├── Titanic_Weeek4_ML_Report.docx  # Week 4 Model training and Testing
+|   └── Week4_Titanic_ML.ipynb         # Python script for model training and testing
+└── WEEK 5/
+    └── Titanic_Week5_Final_Report.docx                 
 ```
 
 ---
